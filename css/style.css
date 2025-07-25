@@ -1,1 +1,31 @@
-!
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    width: 1280px;
+}
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    
+}
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+p {
+    color: gray;
+    font-size: 21px;
+}
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+.phone--icon {
+    padding-top: 40px;
+}
+#footer--text {
+    text-align: right;
+}
